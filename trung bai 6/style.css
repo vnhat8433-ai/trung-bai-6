@@ -1,0 +1,29 @@
+
+.box1 {
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+    background: #7bb6b6;
+    border: 7px solid #000;
+    margin-bottom: 0px;
+}
+
+
+.box2 {
+
+    width: 250px;
+    height: 250px;
+    background: gold;
+    border: 15px dashed black;
+    margin-left: 290px;
+    margin-bottom: 1px;
+}
+
+
+.box3 {
+    width: 250px;
+    height: 250px;
+    background: #c45b5b;
+    border: 12px dotted black;
+    margin-left: 20px;
+}
